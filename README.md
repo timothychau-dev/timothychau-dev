@@ -38,6 +38,34 @@ I'm a **Creative Technologist and Strategist** from Hong Kong 🇭🇰 who loves
 
 ---
 
+## 🎮 Try My Little Creations
+
+### Explore with Tim
+
+<p align="center">
+  <a href="https://createwithtim.com/links/game">
+    <img src="assets/game-banner.svg" alt="Explore with Tim — play the game" width="640" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://createwithtim.com/links/game"><img src="https://img.shields.io/badge/PLAY_THE_GAME-FF5722?style=for-the-badge&logo=gamepad&logoColor=white" /></a>
+</p>
+
+### Cards with Tim
+
+<p align="center">
+  <a href="https://createwithtim.com/cardswithtim/">
+    <img src="assets/cards-banner.svg" alt="Cards with Tim — collect them all" width="640" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://createwithtim.com/cardswithtim/"><img src="https://img.shields.io/badge/COLLECT_THE_CARDS-FFD700?style=for-the-badge&logo=star&logoColor=black" /></a>
+</p>
+
+---
+
 ## 🤖 Prompt in Progress
 
 I'm the founder of **[Prompt in Progress](https://promptinprogress.com)** — a collective of builders, creators, and innovators across Hong Kong and the Greater Bay Area, dedicated to fostering a thriving AI innovation ecosystem.
