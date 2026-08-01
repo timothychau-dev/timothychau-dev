@@ -56,7 +56,7 @@ I'm a **Creative Technologist and Strategist** from Hong Kong 🇭🇰 who loves
 
 <p align="center">
   <a href="https://createwithtim.com/cardswithtim/">
-    <img src="https://createwithtim.com/cardswithtim/uploads/12.jpg" alt="Cards with Tim — collect them all" width="640" />
+    <img src="https://createwithtim.com/cardswithtim/assets/images/pack.png" alt="Cards with Tim — collect them all" width="640" />
   </a>
 </p>
 
