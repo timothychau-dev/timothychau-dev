@@ -85,6 +85,8 @@ I'm the founder of **[Prompt in Progress](https://promptinprogress.com)** — a 
 
 What started as **AI Tinkerers Hong Kong** (monthly technical demo meet-ups) has grown into an ecosystem — because I believe we're **builders of people, not event organizers**. We embrace the "in-between", the imperfect, the *in progress*.
 
+**In short:** **AI Tinkerers Hong Kong** is the technical, builder-first space for engineers and hands-on builders. **Prompt in Progress** is the broader ecosystem — bridging both the technical and non-technical sides, so everyone can navigate AI together.
+
 [🌐 Website](https://promptinprogress.com) · [💼 LinkedIn](https://www.linkedin.com/company/promptinprogress) · [🎥 YouTube](https://www.youtube.com/@promptinprogress) · [🐦 X](https://x.com/promptinprog) · [📸 Instagram](https://www.instagram.com/promptinprog)
 
 ---
