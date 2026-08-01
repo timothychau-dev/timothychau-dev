@@ -65,6 +65,14 @@ I'm a **Creative Technologist and Strategist** from Hong Kong 🇭🇰 who loves
 
 ---
 
+## 🧰 Tools I Use
+
+- 🤖 **OpenCode** — building with AI, in my terminal
+- 🎨 **Adobe Creative Cloud** — Photoshop, Premiere, After Effects & friends
+- ✨ **Adobe Firefly** — generative AI for creative work
+
+---
+
 ## 🌱 Community Building
 
 Everything I build for the AI community — from technical meetups to the wider ecosystem — lives here. Two sides, one mission: building an AI community in Hong Kong.
