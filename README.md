@@ -20,7 +20,7 @@ I'm a **Creative Technologist and Strategist** from Hong Kong 🇭🇰 who loves
 
 ## 🚀 What I'm Building
 
-### Featured Projects
+### Random Tinkering
 
 | Project | What it is | Stack |
 |---------|-----------|-------|
@@ -37,7 +37,7 @@ I'm a **Creative Technologist and Strategist** from Hong Kong 🇭🇰 who loves
 
 ---
 
-## 🎮 Try My Little Creations
+## 🎮 More Advanced Building
 
 ### Explore with Tim
 
