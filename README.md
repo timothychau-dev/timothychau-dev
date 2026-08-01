@@ -66,6 +66,17 @@ I'm a **Creative Technologist and Strategist** from Hong Kong 🇭🇰 who loves
 
 ---
 
+## 🛠️ AI Tinkerers Hong Kong — Chapter Founder
+
+I'm the **[AI Tinkerers Hong Kong](https://hong-kong.aitinkerers.org)** chapter founder — I built it from zero: no network, no resources, no backing, just the belief that Hong Kong needed a technical AI community.
+
+- 🎤 Builder-first and demo-only: live code demos, no slides, no pitches
+- 🌍 Part of the global **[AI Tinkerers](https://aitinkerers.org)** network — 200+ cities, 100,000+ builders
+- 🤝 Monthly meetups with partners like Google, AWS, Alibaba Cloud, Tencent Cloud, Baidu, Cyberport, and HKSTP
+- 🌱 Grew from one small meetup into the ecosystem now known as **[Prompt in Progress](https://promptinprogress.com)**
+
+---
+
 ## 🤖 Prompt in Progress
 
 I'm the founder of **[Prompt in Progress](https://promptinprogress.com)** — a collective of builders, creators, and innovators across Hong Kong and the Greater Bay Area, dedicated to fostering a thriving AI innovation ecosystem.
@@ -75,19 +86,6 @@ I'm the founder of **[Prompt in Progress](https://promptinprogress.com)** — a 
 What started as **AI Tinkerers Hong Kong** (monthly technical demo meet-ups) has grown into an ecosystem — because I believe we're **builders of people, not event organizers**. We embrace the "in-between", the imperfect, the *in progress*.
 
 [🌐 Website](https://promptinprogress.com) · [💼 LinkedIn](https://www.linkedin.com/company/promptinprogress) · [🎥 YouTube](https://www.youtube.com/@promptinprogress) · [🐦 X](https://x.com/promptinprog) · [📸 Instagram](https://www.instagram.com/promptinprog)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=timothychau-dev&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothychau-dev&layout=compact&theme=radical&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=timothychau-dev&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
-</p>
 
 ---
 
