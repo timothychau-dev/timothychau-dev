@@ -1,7 +1,5 @@
 # Hello World / GM! I'm Timothy Chau 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Creative+Technologist+%26+Strategist;Marketing+by+background%2C+AI+by+empowerment+%F0%9F%93%A3;Empowered+by+AI+%E2%80%94+helping+others+feel+strong+too+%F0%9F%92%AA;Founder+%40+Prompt+in+Progress;Let%27s+build+something+fun!+%F0%9F%9A%80)](https://git.io/typing-svg)
-
 <p align="center">
   <img src="https://createwithtim.com/links/preloader.gif" width="480" alt="coding" />
 </p>
