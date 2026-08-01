@@ -44,7 +44,7 @@ I'm a **Creative Technologist and Strategist** from Hong Kong 🇭🇰 who loves
 
 <p align="center">
   <a href="https://createwithtim.com/links/game">
-    <img src="assets/game-banner.svg" alt="Explore with Tim — play the game" width="640" />
+    <img src="https://createwithtim.com/cardswithtim/uploads/30.jpg" alt="Explore with Tim — play the game" width="640" />
   </a>
 </p>
 
