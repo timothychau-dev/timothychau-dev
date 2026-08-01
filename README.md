@@ -70,6 +70,10 @@ I'm a **Creative Technologist and Strategist** from Hong Kong 🇭🇰 who loves
 
 I'm the **[AI Tinkerers Hong Kong](https://hong-kong.aitinkerers.org)** chapter founder — I built it from zero: no network, no resources, no backing, just the belief that Hong Kong needed a technical AI community.
 
+<p align="center">
+  <img src="https://promptinprogress.com/assets/background/background.webp" alt="AI Tinkerers Hong Kong" width="640" />
+</p>
+
 - 🎤 Builder-first and demo-only: live code demos, no slides, no pitches
 - 🌍 Part of the global **[AI Tinkerers](https://aitinkerers.org)** network — 200+ cities, 100,000+ builders
 - 🤝 Monthly meetups with partners like Google, AWS, Alibaba Cloud, Tencent Cloud, Baidu, Cyberport, and HKSTP
