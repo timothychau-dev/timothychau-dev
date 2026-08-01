@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Creative+Technologist+%26+Strategist;Not+technical+by+training...;...but+heavily+AI+empowered+%F0%9F%A4%96;Founder+%40+Prompt+in+Progress;Let%27s+build+something+fun!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="coding" />
+  <img src="https://createwithtim.com/links/preloader.gif" width="480" alt="coding" />
 </p>
 
 ## 🙋‍♂️ About Me
