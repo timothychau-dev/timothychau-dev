@@ -110,15 +110,6 @@ What started as **AI Tinkerers Hong Kong** (monthly technical demo meet-ups) has
 
 ---
 
-## 📰 Latest from My Site
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<p align="center"><i>Auto-updated from <a href="https://createwithtim.com">createwithtim.com</a> — no prompt required. 🤖</i></p>
-
----
-
 ## 📬 Connect With Me
 
 <p align="center">
@@ -133,10 +124,6 @@ What started as **AI Tinkerers Hong Kong** (monthly technical demo meet-ups) has
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="400" alt="party" />
