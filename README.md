@@ -13,6 +13,7 @@ I'm a **Creative Technologist and Strategist** from Hong Kong 🇭🇰 who loves
 - 🌱 Currently learning: everything, one prompt at a time
 - 🔭 I'm building: playful web experiences, gesture-controlled toys, and an AI community
 - 🧠 Founder of **[Prompt in Progress](https://promptinprogress.com)** — building an AI ecosystem across Hong Kong & the Greater Bay Area
+- 🛠️ Chapter Founder of **[AI Tinkerers Hong Kong](https://hong-kong.aitinkerers.org)** — the city's builder-first AI meetup, part of a 247-city global network
 - ⚡ Fun fact: I'm interested in DJ and VJ events, and I've made Meta Spark AR filters ✨
 
 ---
