@@ -6,6 +6,10 @@
   <img src="https://createwithtim.com/links/preloader.gif" width="480" alt="coding" />
 </p>
 
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=timothychau-dev&label=Visitors&countColor=%2336BCF7" />
+</p>
+
 ## 🙋‍♂️ About Me
 
 I'm a **Creative Technologist and Strategist** from Hong Kong 🇭🇰 who loves blending **Creativity + Technology**. I'm not technical by training, but I'm heavily AI-empowered — I tinker, I build, and I turn wild ideas into working (and slightly chaotic) prototypes.
@@ -106,6 +110,15 @@ What started as **AI Tinkerers Hong Kong** (monthly technical demo meet-ups) has
 
 ---
 
+## 📰 Latest from My Site
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p align="center"><i>Auto-updated from <a href="https://createwithtim.com">createwithtim.com</a> — no prompt required. 🤖</i></p>
+
+---
+
 ## 📬 Connect With Me
 
 <p align="center">
@@ -120,6 +133,10 @@ What started as **AI Tinkerers Hong Kong** (monthly technical demo meet-ups) has
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="400" alt="party" />
