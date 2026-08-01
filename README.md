@@ -32,7 +32,6 @@ I'm a **Creative Technologist and Strategist** from Hong Kong 🇭🇰 who loves
 | 📱 [3d-qr-controller](https://github.com/timothychau-dev/3d-qr-controller) | 3D QR controller | HTML |
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="typing fast" />
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="coding cat" />
 </p>
 
