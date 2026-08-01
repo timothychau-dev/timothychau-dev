@@ -65,7 +65,11 @@ I'm a **Creative Technologist and Strategist** from Hong Kong 🇭🇰 who loves
 
 ---
 
-## 🛠️ AI Tinkerers Hong Kong — Chapter Founder
+## 🌱 Community Building
+
+Everything I build for the AI community — from technical meetups to the wider ecosystem — lives here. Two sides, one mission: building an AI community in Hong Kong.
+
+### 🛠️ AI Tinkerers Hong Kong — Chapter Founder
 
 I'm the **[AI Tinkerers Hong Kong](https://hong-kong.aitinkerers.org)** chapter founder — I built it from zero: no network, no resources, no backing, just the belief that Hong Kong needed a technical AI community.
 
@@ -80,7 +84,7 @@ I'm the **[AI Tinkerers Hong Kong](https://hong-kong.aitinkerers.org)** chapter 
 
 ---
 
-## 🤖 Prompt in Progress
+### 🤖 Prompt in Progress
 
 I'm the founder of **[Prompt in Progress](https://promptinprogress.com)** — a collective of builders, creators, and innovators across Hong Kong and the Greater Bay Area, dedicated to fostering a thriving AI innovation ecosystem.
 
